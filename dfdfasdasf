@@ -1,0 +1,11 @@
+[33mcommit db13043d714bff24da665c75062db0c7541dd936[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: usernamr <varunagrawal6261@gmail.com>
+Date:   Sat Sep 17 14:58:53 2022 +0530
+
+    initial commit
+
+[33mcommit 7c21e7eabe485258d2847c8d326d64bcf4d7e16e[m
+Author: usernamr <varunagrawal6261@gmail.com>
+Date:   Fri Sep 16 16:04:36 2022 +0530
+
+    Initialize project using Create React App
